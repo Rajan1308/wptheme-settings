@@ -2,9 +2,9 @@
 
 /**
  * Plugin Name: Theme Setting
- * Plugin URI:  Plugin URL Link
+ * Plugin URI:  https://github.com/Rajan1308/wptheme-settings
  * Author:      Rajan Gupta
- * Author URI:  Plugin Author Link
+ * Author URI:  https://github.com/Rajan1308/
  * Description: Securities and Theme Setting
  * Version:     0.1.0
  * License:     GPL-2.0+
